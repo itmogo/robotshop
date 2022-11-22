@@ -38,5 +38,5 @@ Robot Manual
    9. link it to index.html as module
    10. set main id to main_container
    11. create router() function
-   12. set main_container innerHTML to HomeScreen.  render ()
+   12. set main_container innerHTML to HomeScreen.render ()
    13. set load event of window to router()function
